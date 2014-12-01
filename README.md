@@ -1,9 +1,9 @@
 ntipa-form-builder
 ==================
 
-# from <angular-form-builder> 
+# from [kelp404-angular-form-builder] 
 
-This is an AngularJS form builder written in [javascript]).
+This is an AngularJS form builder written in javascript.
 
 
 
