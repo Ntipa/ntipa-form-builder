@@ -293,6 +293,6 @@ $ npm install
 $ bower install
 ```
 ```bash
-# run the local server and the file watcher to compile CoffeeScript
+# run the local server and the file watcher to compile 
 $ grunt dev
 ```
