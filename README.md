@@ -294,5 +294,5 @@ $ bower install
 ```
 ```bash
 # run the local server and the file watcher to compile 
-$ grunt dev
+$ nodejs server.js
 ```
