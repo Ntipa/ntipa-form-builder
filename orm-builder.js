@@ -22,7 +22,7 @@ TODO
 
 'use strict';
 
-angular.module('itestaverde.ntipa-form-builder', []).directive('ntipaOrmBuilder', [ function () {
+angular.module('ntipa-form-builder', []).directive('ntipaOrmBuilder', [ function () {
 
 	return {
 		restrict: 'A',

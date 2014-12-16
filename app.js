@@ -7,7 +7,7 @@
 
 angular.module('myApp', [
 'ngRoute', 'ngSanitize', 'ngTouch', 'ngAnimate',		//additional angular modules
-'itestaverde.ntipa-form-builder'
+'ntipa-form-builder'
 ]).
 config(['$routeProvider', '$locationProvider', '$compileProvider', function($routeProvider, $locationProvider, $compileProvider) {
 	/**
